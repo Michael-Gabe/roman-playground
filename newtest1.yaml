@@ -1,0 +1,7 @@
+bkg: 80.
+Ngal: 100000
+cut: [2600.,3800.]
+cutslope: [3.3591933250427246,-1.]
+gauss: False
+add_stripe: 0.
+seed: 24101600
